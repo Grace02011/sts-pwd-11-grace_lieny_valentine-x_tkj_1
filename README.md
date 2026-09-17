@@ -22,4 +22,6 @@ Call Center: 188 (Rp 300/panggilan) · 0807-1811-811 (Biaya panggilan lokal)
 
 [Kunjungi Situs](https://www.tokopedia.com/)
 
+[Index](https://github.com/Grace02011/sts-pwd-11-grace_lieny_valentine-x_tkj_1/blob/main/index.html)
+
 Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
