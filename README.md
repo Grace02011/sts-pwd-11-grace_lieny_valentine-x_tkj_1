@@ -1,9 +1,10 @@
 # Tokopedia
 ### #MulaiAjaDulu
 
-Nama Perusahaan: PT TokopediaTanggal. Pendirian: 6 Februari 2009 (resmi diluncurkan ke publik pada 17 Agustus 2009). Pendiri: William Tanuwijaya dan Leontinus Alpha Edison. Kepemimpinan Saat Ini: Melissa Siska Juminto (President of E-Commerce Tokopedia). Kantor Pusat: Jakarta Selatan, DKI JakartaGrup Perusahaan: Bagian dari ekosistem GoTo (PT GoTo Gojek Tokopedia Tbk) setelah bergabung (merger) pada Mei 2021.
+Nama Perusahaan: Tokopedia adalah perusahaan teknologi dan salah satu wadah perdagangan elektronik (e-commerce) terbesar di Indonesia yang memudahkan pengguna untuk membeli serta menjual berbagai produk secara online
 
 Visi Tokopedia: Membangun ekosistem super (super ecosystem). Memungkinkan siapa pun untuk memulai bisnis. Memungkinkan siapa pun untuk menemukan apa pun.
+
 Misi Tokopedia: 
 - Mencapai pemerataan ekonomi secara digital di Indonesia.
 - Memberikan kesempatan yang sama bagi masyarakat untuk berkembang.
