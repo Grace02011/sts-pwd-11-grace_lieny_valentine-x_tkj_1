@@ -15,6 +15,7 @@ Layanan:
 
 Kontak: 
 Email: cs@telkomsel.co.id.
+
 Call Center: 188 (Rp 300/panggilan) · 0807-1811-811 (Biaya panggilan lokal)
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8974f579-fd1d-4a0d-a01d-4418d4a670a3" />
