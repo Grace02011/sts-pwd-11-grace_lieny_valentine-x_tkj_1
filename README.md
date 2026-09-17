@@ -18,6 +18,6 @@ Call Center: 188 (Rp 300/panggilan) · 0807-1811-811 (Biaya panggilan lokal)
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8974f579-fd1d-4a0d-a01d-4418d4a670a3" />
 
-[Kunjungi Google](https://www.tokopedia.com/)
+[Kunjungi Situs](https://www.tokopedia.com/)
 
 Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.
